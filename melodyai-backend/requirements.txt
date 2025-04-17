@@ -1,6 +1,0 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-librosa==0.10.0
-crepe-tensorflow==0.0.12
-pydub==0.25.1
-numpy==1.24.3
